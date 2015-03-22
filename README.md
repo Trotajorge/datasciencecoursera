@@ -1,4 +1,2 @@
-#datasciencecoursera
-## Parrafo
-- Esto es increible 1
-- Esto es increible 2
+#This is THE README for the Course!! 
+##Repository for the Data Scientist Course
